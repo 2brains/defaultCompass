@@ -1,7 +1,6 @@
 @charset "utf-8";
-
-@import "default.css";
-@import "common.css";
-@import "templates.css";
-@import "test.css";
-@import "sprite.css";
+@import url(default.css);
+@import url(common.css);
+@import url(templates.css);
+@import url(test.css);
+@import url(sprite.css);
