@@ -14,27 +14,6 @@ html {
   font-size: 62.5%;
 }
 
-body {
-  font: 13px/1.231 arial,helvetica,clean,sans-serif;
-  *font-size: small;
-  *font: x-small;
-}
-
-table {
-  font-size: inherit;
-  font: 100%;
-}
-
-pre, code, kbd, samp, tt {
-  font-family: monospace;
-  *font-size: 108%;
-  line-height: 100%;
-}
-
-html > body {
-  font-size/*\**/: small\9;
-}
-
 * {
   margin: 0;
   padding: 0;
